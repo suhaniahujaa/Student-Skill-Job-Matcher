@@ -10,11 +10,11 @@ The program compares the student's skills with the skills required for different
 
 ### Main Application
 
-![Student Job Matcher](project.png)
+![Student Job Matcher](project.png.png)
 
 ### Job Recommendation Result
 
-![Job Recommendation Result](result.png)
+![Job Recommendation Result](result.png.png)
 
 ## Features
 
