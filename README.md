@@ -6,6 +6,16 @@ This is a Java project that helps students find suitable jobs based on their ski
 
 The program compares the student's skills with the skills required for different jobs and shows the match percentage.
 
+## 📸 Project Screenshots
+
+### Main Application
+
+![Student Job Matcher](project.png)
+
+### Job Recommendation Result
+
+![Job Recommendation Result](result.png)
+
 ## Features
 
 - Enter student name
